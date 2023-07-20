@@ -1,7 +1,6 @@
-package com.wx.leetcode.xiecheng;
+package com.wx.leetcode.test;
 
 import java.util.concurrent.CountDownLatch;
-import java.util.concurrent.Executor;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 //题目： 100个任务分10批，每批必须等上一批执行完才能开始执行，每批任务内并发执行
